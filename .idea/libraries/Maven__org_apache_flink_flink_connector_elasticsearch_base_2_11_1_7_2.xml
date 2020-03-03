@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-connector-elasticsearch-base_2.11:1.7.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-elasticsearch-base_2.11/1.7.2/flink-connector-elasticsearch-base_2.11-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/flink-connectors/flink-connector-elasticsearch-base/flink-connector-elasticsearch-base_2.11-1.7.2-javadoc.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-elasticsearch-base_2.11/1.7.2/flink-connector-elasticsearch-base_2.11-1.7.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/flink-connectors/flink-connector-elasticsearch-base/flink-connector-elasticsearch-base_2.11-1.7.2-sources.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/flink/flink-connector-elasticsearch-base_2.11/1.7.2/flink-connector-elasticsearch-base_2.11-1.7.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
